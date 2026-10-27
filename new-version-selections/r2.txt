@@ -1,0 +1,6 @@
+WebSiteLink=https://wenitor.oneapp.dev/
+ExeLink=https://github.com/burakdevv/WenitorRunnerPython/releases/download/MyFriendApps/DesktopCat.exe
+DeveloperName=@burakdevv
+AdminRequest=V4
+UserNameGithub=@burakdevv
+Talep=https://github.com/burakdevv/WenitorRunnerPython/releases/download/MyFriendApps/DesktopCat.exe anla.
