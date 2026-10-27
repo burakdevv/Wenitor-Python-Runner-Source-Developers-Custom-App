@@ -1,0 +1,6 @@
+"WebSiteLink=example.com"
+ "ExeLink=example.com/*.exe"
+    DeveloperName "@burakdevv"
+      AdminRequest; V4
+            UserNameGithub=@burakdevv
+               Talep= "Talepleri yönetmek ve her ay bir JSON'a kaydetmek ister ve yetkiliye arz ederim."
